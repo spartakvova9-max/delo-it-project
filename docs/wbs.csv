@@ -14,6 +14,6 @@
 5.1;Проверка;Модульные тесты;6;4.3;Тестировщик;lifecycle/05-testing;tests/test_model.py
 5.2;Проверка;HTTP-интеграция;4;5.1;Тестировщик;lifecycle/05-testing;tests/test_http.py
 5.3;Проверка;Браузерная приёмка;2;5.2;Тестировщик;lifecycle/05-testing;docs/05-test-plan.md
-6.1;Передача;Запуск и CI;2;5.3;Руководитель;lifecycle/06-deployment;"README.md; .github/workflows/tests.yml"
+6.1;Передача;Запуск и выпуск;2;5.3;Руководитель;lifecycle/06-deployment;"README.md; .gitattributes"
 6.2;Передача;Руководство и безопасность;2;6.1;Руководитель;lifecycle/06-deployment;"docs/06-handover.md; SECURITY.md"
 6.3;Передача;Чистый клон и выпуск;2;6.2;Руководитель;lifecycle/06-deployment;docs/06-handover.md

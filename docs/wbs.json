@@ -156,12 +156,12 @@
     {
       "id": "6.1",
       "stage": "Передача",
-      "work_package": "Запуск и CI",
+      "work_package": "Запуск и выпуск",
       "planned_hours": 2,
       "predecessor": "5.3",
       "owner_role": "Руководитель",
       "branch": "lifecycle/06-deployment",
-      "artifact": "README.md; .github/workflows/tests.yml"
+      "artifact": "README.md; .gitattributes"
     },
     {
       "id": "6.2",
